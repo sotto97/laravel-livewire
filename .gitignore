@@ -1,0 +1,6 @@
+# DB data
+docker/db/data/*
+docker/nginx/ssl/*
+.DS_Store
+docker/nginx/.DS_Store
+*_copy*
